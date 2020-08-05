@@ -1,9 +1,9 @@
 ### Hi there 👋 Welcome,
 
-- 🔭 I’m currently working on ✨ DarkWinter GRUP ✨
-- 🌱 I’m currently learning all.
-- 💬 Ask me about PHP, JavaScript or WordPress Development.
-- 📫 How to reach me: darkwintergrup@gmail.com
+- 🔭 We'r DarkWinter GRUP ✨
+- 🌱 We'r currently learning all.
+- 💬 Ask to us about PHP, JavaScript or WordPress Development.
+- 📫 How to reach us: darkwintergrup@gmail.com
 - ⚡ Instagram: @darkwintergrup
 - 😄 ⚡ 👯 🤔
 
