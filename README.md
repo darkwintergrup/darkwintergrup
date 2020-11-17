@@ -1,4 +1,3 @@
-### Hi There 👋 Welcome,
 
 - DarkWinter GRUP
 - The Miracle of Digital Arts | Bir Dijital Sanat Mucizesi
